@@ -77,5 +77,5 @@ This is a basic blog post web application built using Django. The application al
 
 Below is a screenshot of the application displaying the blog posts:
 
-![Blog Application Screenshot](screenshots/1.png)
+![Blog Application Screenshot](sreenshots/1.png)
 
